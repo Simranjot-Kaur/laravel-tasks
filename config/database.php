@@ -110,7 +110,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Redis Databases
+    | Redis Databasess
     |--------------------------------------------------------------------------
     |
     | Redis is an open source, fast, and advanced key-value store that also
